@@ -1,0 +1,7 @@
+create a workflow
+job
+    1 lint
+    2 test 
+    3 deploy
+
+create a workflow trigger when issue create
